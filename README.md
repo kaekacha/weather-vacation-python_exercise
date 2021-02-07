@@ -1,1 +1,1 @@
-# WEather-Vacation-Python_Exercise
+# Weather-Vacation-Python_Exercise
