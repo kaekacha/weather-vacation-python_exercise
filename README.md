@@ -1,4 +1,4 @@
-# Weather-Vacation-Python_Exercise
+# weather-vacation-python_exercise
 
 Hello! This is Akadia's repository for the completed homework assignment #6 for the Georgia Tech Data Science & Analytics Boot Camp. It includes:
 
